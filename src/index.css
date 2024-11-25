@@ -27,3 +27,7 @@ main {
 footer {
     padding-left: 10px;
 }
+
+.active {
+    color: aqua;
+}
